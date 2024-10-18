@@ -6,20 +6,20 @@ Currently I'm actively developing personal projects that allow me to sharpen my 
 
 -My focus is on:
 
-Building robust machine learning models
-Extracting insights from large datasets
-Creating interactive data visualizations
-Leveraging AI to develop smart systems like chatbots
+Building robust machine learning models,
+Extracting insights from large datasets,
+Creating interactive data visualizations and
+Leveraging AI to develop smart systems like chatbots.
 
 
 
 -I’m always eager to collaborate on exciting projects related to:
 
-Machine Learning
-Big Data Analytics
-Business Intelligence Solutions
-Chatbots
-Data Storytelling and Visualization
+Machine Learning,
+Big Data Analytics,
+Business Intelligence Solutions,
+Chatbots  and
+Data Storytelling and Visualization.
 
 
 

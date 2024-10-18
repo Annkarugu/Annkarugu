@@ -8,6 +8,8 @@ Extracting insights from large datasets
 Creating interactive data visualizations
 Leveraging AI to develop smart systems like chatbots
 
+
+
 I’m always eager to collaborate on exciting projects related to:
 
 Machine Learning
@@ -16,10 +18,13 @@ Business Intelligence Solutions
 Chatbots
 Data Storytelling and Visualization
 
+
+
 If you're working on something interesting or would like to connect, feel free to reach out!
+
 Email: njeri9372@gmail.com
 LinkedIn: linkedin.com/in/ann-karugu-324933315
-- 
+
 
 
 

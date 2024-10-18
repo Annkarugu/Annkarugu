@@ -1,7 +1,10 @@
 - Hi there! 👋 I'm Annkarugu
   
 I'm a passionate Data Scientist with expertise in:🧠 Machine Learning🌐 Big Data📊 Business Intelligence🤖 Chatbots📝 Data Storytelling
-Currently I'm actively developing personal projects that allow me to sharpen my skills and explore new techniques in data science. My focus is on:
+Currently I'm actively developing personal projects that allow me to sharpen my skills and explore new techniques in data science.
+
+
+-My focus is on:
 
 Building robust machine learning models
 Extracting insights from large datasets
@@ -10,7 +13,7 @@ Leveraging AI to develop smart systems like chatbots
 
 
 
-I’m always eager to collaborate on exciting projects related to:
+-I’m always eager to collaborate on exciting projects related to:
 
 Machine Learning
 Big Data Analytics
@@ -20,7 +23,7 @@ Data Storytelling and Visualization
 
 
 
-If you're working on something interesting or would like to connect, feel free to reach out!
+-If you're working on something interesting or would like to connect, feel free to reach out!
 
 Email: njeri9372@gmail.com
 LinkedIn: linkedin.com/in/ann-karugu-324933315
